@@ -26,6 +26,10 @@
 * [Handlebars](http://handlebarsjs.com)
 * [UnderscoreJS](http://underscorejs.org)
 
+## Blogs
+* [PonyFoo](https://ponyfoo.com) (primarily javascript- also an awesome newsletter)
+* [CSS Tricks](http://css-tricks.com)
+
 ## Debugging
 * [CodeSchool Chrome DevTools Course](https://www.codeschool.com/courses/discover-devtools) (FREE)
 * [Awesome Chrome Dev Tools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
