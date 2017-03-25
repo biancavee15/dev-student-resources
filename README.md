@@ -7,10 +7,13 @@
 ## Code Sharing/Playgrounds
 * [CodePen](https://codepen.io)
 * [JSBin](http://jsbin.com)
+* [JSFiddle](http://jsfiddle.net)
 
-## Code Challenges/Tests
+## Code Challenges/Tests/Practice
 * [HackerRank](https://www.hackerrank.com)
 * [CodeWars](https://www.codewars.com)
+* [Javascript 30](https://javascript30.com)
+* [100 Days of CSS](http://100dayscss.com)
 
 ## Learn
 * [MongoDB University](https://university.mongodb.com)
