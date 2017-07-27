@@ -59,6 +59,12 @@
 * [Git Tips & Tricks](https://wikileaks.org/ciav7p1/cms/page_1179773.html)
 * [TodoMVC](http://todomvc.com/) (todo js framework examples)
 * [HTTP Status Codes](https://httpstatuses.com/)
+* [nodemon](https://nodemon.io/)
+* [Color Sublime](http://colorsublime.com/)
+* [terminal.sexy](https://terminal.sexy/)
+
+## Design Help
+* [Adobe Color](https://color.adobe.com/explore/?filter=newest) (color schemes)
 
 ## IDEs
 * [Sublime Text](https://www.sublimetext.com)
