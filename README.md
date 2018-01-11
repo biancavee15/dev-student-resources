@@ -20,6 +20,7 @@
 * [Javascript 30](https://javascript30.com)
 * [100 Days of CSS](http://100dayscss.com)
 * [CodeFights](https://codefights.com/)
+* [Markdown Live Preview](http://markdownlivepreview.com)
 
 ## Learn
 * [MongoDB University](https://university.mongodb.com)
@@ -34,10 +35,11 @@
 * [CodeSchool Mastering Git](https://www.codeschool.com/courses/mastering-github)
 * [Automate Web Development With Gulp JS](https://www.udemy.com/learn-gulp)
 * [The Complete Node.js Developer Course](https://www.udemy.com/the-complete-nodejs-developer-course-2/)
-* [The Complete React Web App Developer Course](https://www.udemy.com/the-complete-react-web-app-developer-course)
+* [The Complete React Web App Developer Course](https://www.udemy.com/react-2nd-edition/learn/v4)
 * [Yarn](http://www.mead.io/yarn) (npm alternative)
 * [Debugging Node](http://www.mead.io/node-debugging)
 * [Sublime Tutor](https://sublimetutor.com)
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Testing
 * [mocha](https://mochajs.org/)
